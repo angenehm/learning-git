@@ -1,2 +1,2 @@
 # learning-git
-I will leran
+I will learn
